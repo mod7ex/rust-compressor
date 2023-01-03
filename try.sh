@@ -1,0 +1,1 @@
+cargo run ./rust.pdf ./compressed-file
